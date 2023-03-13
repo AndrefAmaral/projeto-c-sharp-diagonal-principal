@@ -1,0 +1,13 @@
+C:\dev\Diagonal_Principal\obj\Debug\netcoreapp3.1\Diagonal_Principal.csprojAssemblyReference.cache
+C:\dev\Diagonal_Principal\obj\Debug\netcoreapp3.1\Diagonal_Principal.AssemblyInfoInputs.cache
+C:\dev\Diagonal_Principal\obj\Debug\netcoreapp3.1\Diagonal_Principal.AssemblyInfo.cs
+C:\dev\Diagonal_Principal\obj\Debug\netcoreapp3.1\Diagonal_Principal.csproj.CoreCompileInputs.cache
+C:\dev\Diagonal_Principal\bin\Debug\netcoreapp3.1\Diagonal_Principal.exe
+C:\dev\Diagonal_Principal\bin\Debug\netcoreapp3.1\Diagonal_Principal.deps.json
+C:\dev\Diagonal_Principal\bin\Debug\netcoreapp3.1\Diagonal_Principal.runtimeconfig.json
+C:\dev\Diagonal_Principal\bin\Debug\netcoreapp3.1\Diagonal_Principal.runtimeconfig.dev.json
+C:\dev\Diagonal_Principal\bin\Debug\netcoreapp3.1\Diagonal_Principal.dll
+C:\dev\Diagonal_Principal\bin\Debug\netcoreapp3.1\Diagonal_Principal.pdb
+C:\dev\Diagonal_Principal\obj\Debug\netcoreapp3.1\Diagonal_Principal.dll
+C:\dev\Diagonal_Principal\obj\Debug\netcoreapp3.1\Diagonal_Principal.pdb
+C:\dev\Diagonal_Principal\obj\Debug\netcoreapp3.1\Diagonal_Principal.genruntimeconfig.cache
